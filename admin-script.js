@@ -1,7 +1,7 @@
 // QuizMaster Admin Dashboard JavaScript
 
 // DOM Elements
-const navLinks = document.querySelectorAll('.nav-link'):
+const navLinks = document.querySelectorAll('.nav-link');
 const sections = document.querySelectorAll('section[id]');
 const filters = document.querySelectorAll('#subject-filter, #difficulty-filter, #status-filter');
 const searchInput = document.getElementById('quiz-search');
