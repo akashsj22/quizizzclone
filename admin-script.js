@@ -3,7 +3,7 @@
 // DOM Elements
 const navLinks = document.querySelectorAll('.nav-link');
 const sections = document.querySelectorAll('section[id]');
-const filters = document.querySelectorAll('#subject-filter, #difficulty-filter, #status-filter');
+const filters = document.querySelectorAll('#subject-filter, #difficulty-filter, #status-filter'):
 const searchInput = document.getElementById('quiz-search');
 const quizzesTableBody = document.getElementById('quizzes-table-body');
 
